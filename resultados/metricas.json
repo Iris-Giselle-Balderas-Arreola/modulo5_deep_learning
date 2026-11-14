@@ -1,0 +1,30 @@
+{
+  "autor": "Iris Giselle Balderas Arreola",
+  "matricula": "A01752895",
+  "semilla": 42,
+  "dataset": "puneet6060/intel-image-classification",
+  "version_dataset": 2,
+  "inventario_legible": 17034,
+  "imagenes_unicas": 17003,
+  "filas_retiradas": 31,
+  "particiones": {
+    "entrenamiento": 1800,
+    "validacion": 480,
+    "prueba": 600
+  },
+  "validacion_inicial": {
+    "accuracy": 0.6791666666666667,
+    "f1_macro": 0.6820292388284964
+  },
+  "validacion_ajustado": {
+    "accuracy": 0.88125,
+    "f1_macro": 0.8812477449583803
+  },
+  "modelo_elegido": "ajustado",
+  "prueba": {
+    "accuracy": 0.87,
+    "f1_macro": 0.8700316262726552
+  },
+  "mejor_epoca_inicial": 12,
+  "mejor_epoca_ajustado": 10
+}

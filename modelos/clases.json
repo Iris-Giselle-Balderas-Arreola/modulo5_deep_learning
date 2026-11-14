@@ -1,0 +1,22 @@
+{
+  "autor": "Iris Giselle Balderas Arreola",
+  "matricula": "A01752895",
+  "lado": 128,
+  "clases": [
+    "buildings",
+    "forest",
+    "glacier",
+    "mountain",
+    "sea",
+    "street"
+  ],
+  "nombres": [
+    "Edificios",
+    "Bosque",
+    "Glaciar",
+    "Montaña",
+    "Mar",
+    "Calle"
+  ],
+  "modelo_elegido": "ajustado"
+}
