@@ -4,7 +4,7 @@
 
 Se implementó un modelo de clasificación de imágenes con Keras y TensorFlow. A partir de una fotografía se predice una de seis clases: edificios, bosque, glaciar, montaña, mar o calle.
 
-Se utilizó [Intel Image Classification, versión 2](https://www.kaggle.com/datasets/puneet6060/intel-image-classification), publicado en Kaggle por Puneet Bansal a partir del desafío de Intel en Analytics Vidhya. Se trata de fotografías reales. Se revisaron las 13 presentaciones proporcionadas y se eligieron convoluciones, pooling, aumento de datos, regularización y transferencia de aprendizaje para esta tarea.
+Se utilizó [Intel Image Classification, versión 2](https://www.kaggle.com/datasets/puneet6060/intel-image-classification), publicado en Kaggle por Puneet Bansal a partir del desafío de Intel en Analytics Vidhya. Se trata de fotografías reales. 
 
 ## Desarrollo y resultados
 
